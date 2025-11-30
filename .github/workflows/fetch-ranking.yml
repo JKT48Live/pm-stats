@@ -31,7 +31,7 @@ jobs:
           {
             echo "## Weekly JKT48 PM Ranking"
             echo
-            echo "Update: $(date '+%Y-%m-%d %H:%M:%S')"
+            echo "Update: $(date '+%Y-%m-%d %H:%M:%S')\n"
             echo "Week range: $week_start → $week_end"
             echo
             echo "| Rank | Name | Msg | Prev Rank |"
