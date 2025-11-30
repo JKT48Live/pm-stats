@@ -26,18 +26,18 @@ jobs:
       
           # Mulai bangun markdown
           {
-            echo "## Weekly Idol Ranking"
+            echo "## Weekly JKT48 PM Ranking"
             echo
-            echo "Terakhir update: $(date '+%Y-%m-%d %H:%M:%S')"
+            echo "Update: $(date '+%Y-%m-%d %H:%M:%S')"
             echo
-            echo "| Rank | Name | Msg/Week | Prev Rank |"
-            echo "|------|------|-----------|-----------|"
+            echo "| Rank | Name | Msg | Prev Rank |"
+            echo "|------|------|-----|-----------|"
       
             # Loop normal (bukan subshell)
             while IFS= read -r row; do
               rank=$(jq -r '.rank' <<< "$row")
               name=$(jq -r '.name' <<< "$row")
-              messages=$(jq -r '.messages_per_week' <<< "$row")
+              messages=$(jq -r '.messages_per_week | "\(.)/week"' <<< "$row")
               prev=$(jq -r '.previous_rank' <<< "$row")
       
               echo "| $rank | $name | $messages | $prev |"
