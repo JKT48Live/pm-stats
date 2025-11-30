@@ -34,6 +34,8 @@ jobs:
             echo "Update: $(date '+%Y-%m-%d %H:%M:%S')  "
             echo "Week range: $week_start → $week_end"
             echo
+            echo "Data source: JKT48 PM App"
+            echo
             echo "| Rank | Name | Msg | Prev Rank |"
             echo "|------|------|-----|-----------|"
       
