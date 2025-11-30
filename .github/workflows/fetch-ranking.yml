@@ -23,12 +23,16 @@ jobs:
       
           # Ambil item JSON
           ITEMS=$(echo "$DATA" | jq -c '.data[]')
+
+          week_start=$(echo "$DATA" | jq -r '.data[0].week_start | split("T")[0]')
+          week_end=$(echo "$DATA" | jq -r '.data[0].week_end | split("T")[0]')
       
           # Mulai bangun markdown
           {
             echo "## Weekly JKT48 PM Ranking"
             echo
             echo "Update: $(date '+%Y-%m-%d %H:%M:%S')"
+            echo "Week range: $week_start → $week_end"
             echo
             echo "| Rank | Name | Msg | Prev Rank |"
             echo "|------|------|-----|-----------|"
