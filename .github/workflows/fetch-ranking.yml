@@ -15,31 +15,32 @@ jobs:
 
       - name: Fetch data & update README
         run: |
-          DATA=$(curl -s \
+          # Fetch API
+          DATA="$(curl -s \
             -H 'User-Agent: Mozilla/5.0' \
             -H 'Accept: application/json' \
-            "${{ secrets.API_URL }}")
-
+            '${{ secrets.API_URL }}'
+          )"
+      
           echo "RAW DATA:"
-          echo "$DATA"
-
-          ITEMS=$(echo "$DATA" | jq -c '.data[]')
-
+          printf "%s\n" "$DATA"
+      
           OUTPUT="## Weekly Idol Ranking\n\n"
           OUTPUT+="Terakhir update: $(date '+%Y-%m-%d %H:%M:%S')\n\n"
           OUTPUT+="| Rank | Name | Msg/Week | Prev Rank |\n"
           OUTPUT+="|------|------|-----------|-----------|\n"
-
-          for row in $ITEMS; do
+      
+          # ITERASI AMAN TANPA MERUSAK JSON
+          echo "$DATA" | jq -c '.data[]' | while read -r row; do
             rank=$(echo "$row" | jq -r '.rank')
             name=$(echo "$row" | jq -r '.name')
             messages=$(echo "$row" | jq -r '.messages_per_week')
             prev=$(echo "$row" | jq -r '.previous_rank')
-
+      
             OUTPUT+="| $rank | $name | $messages | $prev |\n"
           done
-
-          echo -e "$OUTPUT" > README.md
+      
+          printf "%s\n" "$OUTPUT" > README.md
 
       - name: Commit changes
         run: |
