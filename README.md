@@ -1,1 +1,60 @@
-## Weekly Idol Ranking\n\nTerakhir update: 2025-11-30 09:06:09\n\n| Rank | Name | Msg/Week | Prev Rank |\n|------|------|-----------|-----------|\n| 1 | Ekin JKT48 | 663 | 1 |\n| 2 | Gracie JKT48 | 365 | 2 |\n| 3 | Delynn JKT48 | 358 | 3 |\n| 4 | Intan JKT48 | 268 | 4 |\n| 5 | Danella JKT48 | 230 | 5 |\n| 6 | Lia JKT48 | 221 | 6 |\n| 7 | Fritzy JKT48 | 206 | 7 |\n| 8 | Daisy JKT48 | 164 | 8 |\n| 9 | Lana JKT48 | 159 | 9 |\n| 10 | Mikaela JKT48 | 138 | 10 |\n| 11 | Ribka JKT48 | 135 | 11 |\n| 12 | Ella JKT48 | 130 | 12 |\n| 13 | Lily JKT48 | 127 | 13 |\n| 14 | Marsha JKT48 | 123 | 14 |\n| 15 | Giaa JKT48 | 121 | 15 |\n| 16 | Erine JKT48 | 117 | 16 |\n| 17 | Jessi JKT48 | 113 | 17 |\n| 18 | Levi JKT48 | 108 | 18 |\n| 19 | Muthe JKT48 | 104 | 19 |\n| 20 | Jemima JKT48 | 103 | 20 |\n| 21 | Michie JKT48 | 99 | 21 |\n| 22 | Nala JKT48 | 99 | 22 |\n| 23 | Gita JKT48 | 87 | 23 |\n| 24 | Greesel JKT48 | 85 | 24 |\n| 25 | Fiony JKT48 | 83 | 25 |\n| 26 | Nachia JKT48 | 83 | 26 |\n| 27 | Trisha JKT48 | 81 | 27 |\n| 28 | Maira JKT48 | 81 | 28 |\n| 29 | Cynthia JKT48 | 78 | 29 |\n| 30 | Auwia JKT48 | 75 | 30 |\n| 31 | Virgi JKT48 | 73 | 31 |\n| 32 | Rilly JKT48 | 61 | 32 |\n| 33 | Cathy JKT48 | 55 | 33 |\n| 34 | Raisha JKT48 | 55 | 34 |\n| 35 | Elin JKT48 | 52 | 35 |\n| 36 | Alya JKT48 | 49 | 36 |\n| 37 | Oline JKT48 | 46 | 37 |\n| 38 | Nayla JKT48 | 43 | 38 |\n| 39 | Oniel JKT48 | 39 | 39 |\n| 40 | Aralie JKT48 | 38 | 40 |\n| 41 | Anindya JKT48 | 36 | 41 |\n| 42 | Kimmy JKT48 | 32 | 42 |\n| 43 | Chelsea JKT48 | 26 | 43 |\n| 44 | Gendis JKT48 | 21 | 44 |\n| 45 | Christy JKT48 | 21 | 45 |\n| 46 | Amanda JKT48 | 21 | 46 |\n| 47 | Olla JKT48 | 18 | 47 |\n| 48 | Kathrina JKT48 | 15 | 48 |\n| 49 | Lyn JKT48 | 14 | 49 |\n| 50 | Eli JKT48 | 12 | 50 |\n| 51 | Lulu JKT48 | 10 | 51 |\n| 52 | Indah JKT48 | 9 | 52 |\n| 53 | Gracia JKT48 | 9 | 53 |\n| 60 | Freya JKT48 | 0 | 60 |\n
+## Weekly Idol Ranking
+
+Terakhir update: 2025-11-30 09:07:53
+
+| Rank | Name | Msg/Week | Prev Rank |
+|------|------|-----------|-----------|
+| 1 | Ekin JKT48 | 663 | 1 |
+| 2 | Gracie JKT48 | 365 | 2 |
+| 3 | Delynn JKT48 | 358 | 3 |
+| 4 | Intan JKT48 | 268 | 4 |
+| 5 | Danella JKT48 | 230 | 5 |
+| 6 | Lia JKT48 | 221 | 6 |
+| 7 | Fritzy JKT48 | 206 | 7 |
+| 8 | Daisy JKT48 | 164 | 8 |
+| 9 | Lana JKT48 | 159 | 9 |
+| 10 | Mikaela JKT48 | 138 | 10 |
+| 11 | Ribka JKT48 | 135 | 11 |
+| 12 | Ella JKT48 | 130 | 12 |
+| 13 | Lily JKT48 | 127 | 13 |
+| 14 | Marsha JKT48 | 123 | 14 |
+| 15 | Giaa JKT48 | 121 | 15 |
+| 16 | Erine JKT48 | 117 | 16 |
+| 17 | Jessi JKT48 | 113 | 17 |
+| 18 | Levi JKT48 | 108 | 18 |
+| 19 | Muthe JKT48 | 104 | 19 |
+| 20 | Jemima JKT48 | 103 | 20 |
+| 21 | Michie JKT48 | 99 | 21 |
+| 22 | Nala JKT48 | 99 | 22 |
+| 23 | Gita JKT48 | 87 | 23 |
+| 24 | Greesel JKT48 | 85 | 24 |
+| 25 | Fiony JKT48 | 83 | 25 |
+| 26 | Nachia JKT48 | 83 | 26 |
+| 27 | Trisha JKT48 | 81 | 27 |
+| 28 | Maira JKT48 | 81 | 28 |
+| 29 | Cynthia JKT48 | 78 | 29 |
+| 30 | Auwia JKT48 | 75 | 30 |
+| 31 | Virgi JKT48 | 73 | 31 |
+| 32 | Rilly JKT48 | 61 | 32 |
+| 33 | Cathy JKT48 | 55 | 33 |
+| 34 | Raisha JKT48 | 55 | 34 |
+| 35 | Elin JKT48 | 52 | 35 |
+| 36 | Alya JKT48 | 49 | 36 |
+| 37 | Oline JKT48 | 46 | 37 |
+| 38 | Nayla JKT48 | 43 | 38 |
+| 39 | Oniel JKT48 | 39 | 39 |
+| 40 | Aralie JKT48 | 38 | 40 |
+| 41 | Anindya JKT48 | 36 | 41 |
+| 42 | Kimmy JKT48 | 32 | 42 |
+| 43 | Chelsea JKT48 | 26 | 43 |
+| 44 | Gendis JKT48 | 21 | 44 |
+| 45 | Christy JKT48 | 21 | 45 |
+| 46 | Amanda JKT48 | 21 | 46 |
+| 47 | Olla JKT48 | 18 | 47 |
+| 48 | Kathrina JKT48 | 15 | 48 |
+| 49 | Lyn JKT48 | 14 | 49 |
+| 50 | Eli JKT48 | 12 | 50 |
+| 51 | Lulu JKT48 | 10 | 51 |
+| 52 | Indah JKT48 | 9 | 52 |
+| 53 | Gracia JKT48 | 9 | 53 |
+| 60 | Freya JKT48 | 0 | 60 |
