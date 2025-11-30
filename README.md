@@ -1,7 +1,1 @@
-## Weekly Idol Ranking
-
-Terakhir update: 2025-11-30 08:53:41
-
-| Rank | Name | Msg/Week | Prev Rank |
-|------|------|-----------|-----------|
-
+## Weekly Idol Ranking\n\nTerakhir update: 2025-11-30 09:04:28\n\n| Rank | Name | Msg/Week | Prev Rank |\n|------|------|-----------|-----------|\n
