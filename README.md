@@ -1,6 +1,6 @@
 ## Weekly JKT48 PM Ranking
 
-Update: 2026-04-07 07:15:06  
+Update: 2026-04-07 09:01:01  
 Week range: 2026-03-30 → 2026-04-05
 
 Data source: JKT48 PM App
@@ -58,5 +58,4 @@ Data source: JKT48 PM App
 | 49 | Auwia JKT48 | 14/week | 49 |
 | 50 | Eli JKT48 | 5/week | 50 |
 | 51 | Gendis JKT48 | 0/week | 51 |
-| 57 | Amanda JKT48 | 0/week | 57 |
 | 60 | Freya JKT48 | 0/week | 60 |
