@@ -1,6 +1,6 @@
 ## Weekly JKT48 PM Ranking
 
-Update: 2026-05-24 11:15:29  
+Update: 2026-05-24 13:23:42  
 Week range: 2026-05-18 → 2026-05-24
 
 Data source: JKT48 PM App
