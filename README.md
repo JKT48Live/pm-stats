@@ -1,6 +1,6 @@
 ## Weekly JKT48 PM Ranking
 
-Update: 2026-06-03 03:59:30  
+Update: 2026-06-03 09:00:17  
 Week range: 2026-05-25 → 2026-05-31
 
 Data source: JKT48 PM App
@@ -65,7 +65,6 @@ Data source: JKT48 PM App
 | 56 | Muthe JKT48 | 13/week | 30 |
 | 57 | Lyn JKT48 | 11/week | 54 |
 | 58 | Gracie JKT48 | 10/week | 8 |
-| 59 | Chelsea JKT48 | 9/week | 55 |
 | 60 | Oline JKT48 | 1/week | 58 |
 | 64 | Eli JKT48 | 0/week | 64 |
 | 70 | Freya JKT48 | 0/week | 60 |
