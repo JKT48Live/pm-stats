@@ -1,6 +1,6 @@
 ## Weekly JKT48 PM Ranking
 
-Update: 2026-11-20 01:43:12  
+Update: 2026-11-20 09:41:21  
 Week range: 2026-11-09 → 2026-11-15
 
 Data source: JKT48 PM App
@@ -65,6 +65,5 @@ Data source: JKT48 PM App
 | 56 | Gendis JKT48 | 0/week | 56 |
 | 65 | Oline JKT48 | 0/week | 65 |
 | 66 | Cathy JKT48 | 0/week | 66 |
-| 68 | Alya JKT48 | 0/week | 68 |
 | 69 | Auwia JKT48 | 0/week | 69 |
 | 70 | Freya JKT48 | 0/week | 70 |
